@@ -1,0 +1,1 @@
+Windows alatt "Shrink volume"-val lehet zsugorítani a partíciót adatvesztés nélkül!!
